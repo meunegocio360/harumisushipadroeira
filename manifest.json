@@ -1,6 +1,7 @@
 {
  "name": "Harumi Sushi Padroeira - Tour Virtual 360°",
- "description": "Praça Padroeira do Brasil, 160 - Centro, Osasco - SP",
+ "start_url": "index.htm",
+ "background_color": "#000000",
  "display": "fullscreen",
  "theme_color": "#000000",
  "icons": [
@@ -40,6 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
- "background_color": "#000000"
+ "description": "Praça Padroeira do Brasil, 160 - Centro, Osasco - SP"
 }

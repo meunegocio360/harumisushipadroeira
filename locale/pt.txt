@@ -3,21 +3,21 @@
 ## Action
 
 ### URL
-LinkBehaviour_54B402EE_4D9A_4F5E_41CD_9D08E569C169.source = http://www.loremipsum.com
 LinkBehaviour_6D233803_4E8B_DAC7_41D1_A60D451C596E.source = http://www.loremipsum.com
-LinkBehaviour_5798E27F_4D8A_4F3F_419D_48C31ADB527A.source = https://linklist.bio/harumipadroeira
+LinkBehaviour_54B402EE_4D9A_4F5E_41CD_9D08E569C169.source = http://www.loremipsum.com
 LinkBehaviour_6D1A97F0_4E8B_D541_41C4_FC1DAF317C2E.source = https://linklist.bio/harumipadroeira
+LinkBehaviour_5798E27F_4D8A_4F3F_419D_48C31ADB527A.source = https://linklist.bio/harumipadroeira
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
-LinkBehaviour_6D1A07F0_4E8B_D541_4194_3214A75ACA4C.source = https://www.ifood.com.br/delivery/osasco-sp/harumi-sushi-centro-centro/
 LinkBehaviour_542AF0E6_4D9D_CB41_41B2_4F5BAE23B8B4.source = https://www.ifood.com.br/delivery/osasco-sp/harumi-sushi-centro-centro/
+LinkBehaviour_6D1A07F0_4E8B_D541_4194_3214A75ACA4C.source = https://www.ifood.com.br/delivery/osasco-sp/harumi-sushi-centro-centro/
 
 ## Media
 
 ### Audio
-audio_514629C6_4D8D_FD41_41D1_B52FCFABC5FB.path = null
-audiores_6FC99984_4D85_FDC1_41D1_508977B16F00.mp3Url = media/audio_514629C6_4D8D_FD41_41D1_B52FCFABC5FB_pt.mp3
-audiores_6FC99984_4D85_FDC1_41D1_508977B16F00.oggUrl = media/audio_514629C6_4D8D_FD41_41D1_B52FCFABC5FB_pt.ogg
+audio_4ABFE32F_61F6_E4F5_41D5_4BF39AF335FA.path = null
+audiores_4BE506AA_61CE_2DFF_41D2_149914418CC1.mp3Url = media/audio_4ABFE32F_61F6_E4F5_41D5_4BF39AF335FA_pt.mp3
+audiores_4BE506AA_61CE_2DFF_41D2_149914418CC1.oggUrl = media/audio_4ABFE32F_61F6_E4F5_41D5_4BF39AF335FA_pt.ogg
 
 ### Title
 panorama_5FC7871E_4DBE_76C1_41B8_D31E12BF6326.label = Lado Direito
@@ -43,12 +43,14 @@ Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD_mobile.label = FOTOS 360°
 Button_1FDDCF4A_0C0A_23FD_417A_1C14E098FDFD.label = FOTOS 360°
 Button_5A3DD939_4D9A_FAC3_41D2_DEF36CE0FBDB_mobile.label = IFOOD
 Button_5A3DD939_4D9A_FAC3_41D2_DEF36CE0FBDB.label = IFOOD
+Button_4987A39F_61F6_2BD5_4181_E163F74D0AD5.label = IMAGEM AÉREA
+Button_48DE950F_61F6_2CB5_41D2_643FA6113B83_mobile.label = IMAGEM AÉREA
 Button_556739D7_4D9B_DD4F_41AA_75F30B61B7B0_mobile.label = NOSSOS CONTATOS
 Button_556739D7_4D9B_DD4F_41AA_75F30B61B7B0.label = NOSSOS CONTATOS
-Button_52F72248_4D7A_4F41_4185_AB5C45773C81.label = TÉRREO
 Button_52F72248_4D7A_4F41_4185_AB5C45773C81_mobile.label = TÉRREO
-Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
+Button_52F72248_4D7A_4F41_4185_AB5C45773C81.label = TÉRREO
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
+Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
 
 ### Image
 Image_5B5AA173_4D87_CD46_41B8_CCB0F360AB90.path = null
