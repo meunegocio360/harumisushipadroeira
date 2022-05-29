@@ -5,19 +5,21 @@
 ### URL
 LinkBehaviour_6D233803_4E8B_DAC7_41D1_A60D451C596E.source = http://www.loremipsum.com
 LinkBehaviour_54B402EE_4D9A_4F5E_41CD_9D08E569C169.source = http://www.loremipsum.com
-LinkBehaviour_6D1A97F0_4E8B_D541_41C4_FC1DAF317C2E.source = https://linklist.bio/harumipadroeira
 LinkBehaviour_5798E27F_4D8A_4F3F_419D_48C31ADB527A.source = https://linklist.bio/harumipadroeira
+LinkBehaviour_6D1A97F0_4E8B_D541_41C4_FC1DAF317C2E.source = https://linklist.bio/harumipadroeira
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
-LinkBehaviour_542AF0E6_4D9D_CB41_41B2_4F5BAE23B8B4.source = https://www.ifood.com.br/delivery/osasco-sp/harumi-sushi-centro-centro/
 LinkBehaviour_6D1A07F0_4E8B_D541_4194_3214A75ACA4C.source = https://www.ifood.com.br/delivery/osasco-sp/harumi-sushi-centro-centro/
+LinkBehaviour_542AF0E6_4D9D_CB41_41B2_4F5BAE23B8B4.source = https://www.ifood.com.br/delivery/osasco-sp/harumi-sushi-centro-centro/
+LinkBehaviour_38678738_0D2A_AAAE_417A_EC5D0442E17F.source = https://www.instagram.com/harumisushipadroeira/
+LinkBehaviour_38E9A71C_0D2B_AA66_41A4_C80686AA6BD0.source = https://www.instagram.com/harumisushipadroeira/
+LinkBehaviour_38395A5F_0D2A_9AE2_419D_0FFC922042B7.source = https://www.instagram.com/meunegocioweb360/
+LinkBehaviour_387065DD_0D29_69E6_4182_4A490BAFF184.source = https://www.instagram.com/meunegocioweb360/
 
 ## Media
 
 ### Audio
-audio_4ABFE32F_61F6_E4F5_41D5_4BF39AF335FA.path = null
 audiores_4BE506AA_61CE_2DFF_41D2_149914418CC1.mp3Url = media/audio_4ABFE32F_61F6_E4F5_41D5_4BF39AF335FA_pt.mp3
-audiores_4BE506AA_61CE_2DFF_41D2_149914418CC1.oggUrl = media/audio_4ABFE32F_61F6_E4F5_41D5_4BF39AF335FA_pt.ogg
 
 ### Title
 panorama_5FC7871E_4DBE_76C1_41B8_D31E12BF6326.label = Lado Direito
@@ -53,18 +55,12 @@ Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4.label = lorem ipsum
 Button_386DE8AA_17CC_0B05_41B5_DE879E1001C4_mobile.label = lorem ipsum
 
 ### Image
-Image_5B5AA173_4D87_CD46_41B8_CCB0F360AB90.path = null
-Image_5B5AA173_4D87_CD46_41B8_CCB0F360AB90_mobile.path = null
-Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_mobile.path = null
-Image_16B75461_1B87_4970_41B9_4F94F65FB1C1.path = null
-Image_182FD4E7_17B7_EF41_41AA_D495544C1972.path = null
-Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile.path = null
-Image_9511127C_9B79_D2C1_41D8_D080B87BFD84.path = null
-Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile.path = null
 Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_mobile.url = skin/Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_mobile_pt.jpg
 Image_16B75461_1B87_4970_41B9_4F94F65FB1C1.url = skin/Image_16B75461_1B87_4970_41B9_4F94F65FB1C1_pt.jpg
 Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile.url = skin/Image_182FD4E7_17B7_EF41_41AA_D495544C1972_mobile_pt.jpg
 Image_182FD4E7_17B7_EF41_41AA_D495544C1972.url = skin/Image_182FD4E7_17B7_EF41_41AA_D495544C1972_pt.jpg
+Image_380A2102_0D2B_E662_41A0_5EDB16C3B109.url = skin/Image_380A2102_0D2B_E662_41A0_5EDB16C3B109_pt.png
+Image_38B5DCA1_0D29_9E5E_4179_8D2D6E25220A.url = skin/Image_38B5DCA1_0D29_9E5E_4179_8D2D6E25220A_pt.png
 Image_5B5AA173_4D87_CD46_41B8_CCB0F360AB90_mobile.url = skin/Image_5B5AA173_4D87_CD46_41B8_CCB0F360AB90_mobile_pt.png
 Image_5B5AA173_4D87_CD46_41B8_CCB0F360AB90.url = skin/Image_5B5AA173_4D87_CD46_41B8_CCB0F360AB90_pt.png
 Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile_pt.png
